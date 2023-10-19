@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "958889409962",
+    "project_id": "stylelist-bc92d",
+    "storage_bucket": "stylelist-bc92d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958889409962:android:4f4fb14269a2aea30cbfd3",
+        "android_client_info": {
+          "package_name": "com.firstlogicinfolab.stylistshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958889409962-4nqdv3afc65flq6co6glsfq1q0t1fe63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.stylistshop",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "958889409962-rovcpp3u4r9uhbs38chjfkuua6if58f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicinfolab.stylistshop",
+            "certificate_hash": "46701aef85a708589e2f5fefa63f91f8efeeb87e"
+          }
+        },
+        {
+          "client_id": "958889409962-89ihh1prial7kvcntif6f9fasc10lvh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4y1WMUMXBekRpN752---XWjZzHF7g2dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958889409962-89ihh1prial7kvcntif6f9fasc10lvh6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958889409962-qqm54t8erl1muatoofbt9o901stcc2ak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firstlogicinfolab.stylistshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958889409962:android:b389c7b1c863abb20cbfd3",
+        "android_client_info": {
+          "package_name": "com.firstlogicinfolab.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958889409962-89ihh1prial7kvcntif6f9fasc10lvh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4y1WMUMXBekRpN752---XWjZzHF7g2dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958889409962-89ihh1prial7kvcntif6f9fasc10lvh6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958889409962-qqm54t8erl1muatoofbt9o901stcc2ak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firstlogicinfolab.stylistshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
